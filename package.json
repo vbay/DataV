@@ -1,0 +1,25 @@
+{
+  "name": "DataV",
+  "version": "0.1.0",
+  "description": "D3js Data Visualization with DataV",
+  "keywords": [
+    "data visualization",
+    "DataV",
+    "d3"
+  ],
+  "author": {
+    "name": "wangxiaolei",
+    "email" : "wov@outlook.com",
+    "url": "http://wxiaolei.github.com/DataV/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://wxiaolei.github.com/DataV.git"
+  },
+  "dependencies": {
+      "d3":"3.x"
+  },
+  "devDependencies": {},
+  "readmeFilename": "README.md",
+  "license" : "BSD-3-Clause"
+}
